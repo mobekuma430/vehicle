@@ -1,0 +1,17 @@
+{
+  "name": "ESAA IVMS",
+  "short_name": "IVMS",
+  "description": "ESAA Integrated Vehicle Management System",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2563eb",
+  "icons": [
+    {
+      "src": "https://i.postimg.cc/26Mn2Bpb/best-logo-vehicle.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

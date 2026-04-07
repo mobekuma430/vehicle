@@ -1,0 +1,7 @@
+{
+  "name": " Vehicle Management System",
+  "description": "A centralized fleet and vehicle operations platform for managing vehicle registration, requests, approvals, and reporting.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
